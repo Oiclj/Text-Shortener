@@ -1,5 +1,2 @@
 # Text-Shortener
-asasfgsgsfaf
-dfhdyfhdhh
-dfhffhdg
-dyssfgsdfae
+Ta repozitorij vsebuje razširitev za brskalnik, ki uporabniku omogoči, da z enim klikom skrajša ali poenostavi poljubno besedilo na spletni strani. Namenjena je hitremu razumevanju dolgih ali zapletenih vsebin, prihraneku časa in prilagoditvi besedil različnim nivojem bralcev. Razširitev deluje neposredno v brskalniku (ikona in kontekstni meni), podpira izbiro besedila in ponuja nastavitve za stopnjo skrajševanja ali poenostavitve.
